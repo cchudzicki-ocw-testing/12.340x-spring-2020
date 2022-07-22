@@ -49,6 +49,11 @@
     "content": "6df311b4-a832-4257-89ed-ecf089176d90",
     "website": "global-warming-science"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets",
+    "Exams"
+  ],
   "site_uid": "1c914c82-fd0c-4e05-8fe4-5e2839e617ad"
 }
